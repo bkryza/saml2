@@ -2,6 +2,7 @@
     "name": "simplesamlphp/saml2",
     "description": "SAML2 PHP library from SimpleSAMLphp",
     "license": "LGPL-2.1",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Andreas Åkre Solberg",
