@@ -2,7 +2,7 @@
     "name": "bkryza/saml2",
     "description": "SAML2 PHP library from SimpleSAMLphp",
     "license": "LGPL-2.1",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Andreas Åkre Solberg",
